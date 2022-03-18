@@ -1,0 +1,6 @@
+ProgramName,Quantity,Area (m),Width (m),Length (m),Height (m)
+Pusty,2,1000,0,0,3
+Zabudowa mieszkaniowa1,2,800,0,0,3
+Zabudowa mieszkaniowa2,4,600,0,0,3
+Biura2,6,0,6,12,5
+Biura2,4,0,5,15,5
