@@ -2,7 +2,7 @@
 
 Repozytorium materiałów ćwiczeniowych i zasobów kursu Wizualizacja 3D w Gospodarce Przestrzennej (WGESiGP UAM)
 
-## Dodawanie modelu 3D  z georefrencjami w formacie Shapefile Multipatch (np. z SIP Poznań) do ArcGIS Online
+## Dodawanie modelu 3D  z georeferencjami w formacie Shapefile Multipatch (np. z SIP Poznań) do ArcGIS Online
 
     1. W ArcGIS Pro utworzyć nową scenę globalną (Global Scene).
     2. Zalogować się do ArcGIS Online w ArcGIS Pro (prawy górny róg).
@@ -12,7 +12,7 @@ Repozytorium materiałów ćwiczeniowych i zasobów kursu Wizualizacja 3D w Gosp
     6. Nowa warstwa pojawi się na liście warstw. 
     7. Możemy ją wyeksportować wybierając z menu kontekstowego opcję Sharing i następnie Share as Web Layer (jeśli jest nieaktywna prawdopodobnie nie jesteśmy zalogowani do ArcGIS Online)
 
-## Dodawanie modelu 3D bez geroferencji do ArcGIS Online
+## Dodawanie modelu 3D bez georeferencji do ArcGIS Online
 
     1. W ArcGIS Pro utworzyć nową scenę globalną (Global Scene).
     2. Zalogować się do ArcGIS Online w ArcGIS Pro (prawy górny róg).
