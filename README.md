@@ -10,6 +10,11 @@
 
 Repozytorium materiałów ćwiczeniowych i zasobów kursu Wizualizacja 3D w Gospodarce Przestrzennej (WGESiGP UAM)
 
+
+## Zmiany w nowszych wersjach ArcGIS Pro 3.3+
+
+W nowych wresjach możliwe jest dodanie formatów 3D do Multipatch poprzez _Dodaj Formaty 3D do Wielopłatu_
+
 ## Dodawanie modelu 3D  z georeferencjami w formacie Shapefile Multipatch (np. z SIP Poznań) do ArcGIS Online
 
     1. W ArcGIS Pro utworzyć nową scenę globalną (Global Scene).
