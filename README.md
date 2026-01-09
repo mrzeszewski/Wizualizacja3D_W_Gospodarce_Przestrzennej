@@ -1,3 +1,11 @@
+# Przydatne linki
+
+- Overture, źródło danych z atrybutem wysokości: https://explore.overturemaps.org/
+- Fork City Explorera ESRI z możliwością eksportu STL: https://github.com/PaulGibbs3rd/city-download-portal
+- Blog z opisem procedury przygotowania modelu do druku: https://www.esri.com/arcgis-blog/products/js-api-arcgis/3d-gis/3d-print-a-city-creation-and-export-of-a-3d-object-feature-layer-using-arcgis-city-download-portal
+- 
+
+
 # Wizualizacja3D_W_Gospodarce_Przestrzennej
 
 Repozytorium materiałów ćwiczeniowych i zasobów kursu Wizualizacja 3D w Gospodarce Przestrzennej (WGESiGP UAM)
